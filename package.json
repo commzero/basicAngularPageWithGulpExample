@@ -1,0 +1,20 @@
+{
+  "name": "task",
+  "version": "1.0.0",
+  "description": "quadrantMeTask",
+  "main": "index.js",
+  "dependencies": {
+    "npm": "^5.7.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.9.3",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-uglify": "^3.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

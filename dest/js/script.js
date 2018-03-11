@@ -1,0 +1,1 @@
+$(document).ready(function(e){$("#custom_carousel").on("slide.bs.carousel",function(e){$("#custom_carousel .controls li.active").removeClass("active"),$("#custom_carousel .controls li:eq("+$(e.relatedTarget).index()+")").addClass("active")})});
